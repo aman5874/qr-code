@@ -48,7 +48,7 @@ export default function Home() {
   const qrCanvasId = 'qr-code-canvas';
   // Social links
   const twitterLink = 'https://x.com/_aman045';
-  const githubLink = 'https://github.com/aman045';
+  const githubLink = 'https://github.com/aman5874?tab=repositories';
 
   const handleInputChange = (event: React.ChangeEvent<HTMLInputElement>) => {
     setInput(event.target.value);
